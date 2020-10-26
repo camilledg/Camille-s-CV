@@ -328,7 +328,7 @@ header .sticky .logo {
   }
   @media only screen and (min-width: 1281px) {
       .section {
-          padding: 200px 50px;
+          padding: 100px 350px;
            }      
 }  
 .services {

@@ -326,7 +326,12 @@ header .sticky .logo {
       opacity: .9;
     }
   }
-  .services {
+  @media only screen and (min-width: 1281px) {
+      .section {
+          padding: 200px 50px;
+           }      
+}  
+.services {
       background: #d6b5b4;
       opacity: .9;
   }

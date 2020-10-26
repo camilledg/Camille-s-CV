@@ -326,7 +326,7 @@ header .sticky .logo {
       opacity: .9;
     }
   }
-  @media only screen and (min-width: 1281px) {
+  @media only screen and (min-width: 1080px) {
       .section {
           padding: 100px 350px;
            }      
